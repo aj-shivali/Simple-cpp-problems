@@ -25,7 +25,7 @@ for(int i=pos;i<=n;i++){
 n=n-1;
 cout<<"new array elements are :"<<endl;
 for(int i=1;i<=n;i++){
-    cout<<arr[i]<<"\t";
+    cout<<arr[i]<<"\t"; 
 }
 }
 };
